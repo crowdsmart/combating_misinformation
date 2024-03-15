@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Running the Application
 
-This program requires access to API keys stored in AWS Secrets Manager. To allow the program to retrieve these secrets, you need to have a valid AWS access key with the appropriate permissions configured on your computer. 
+This program requires access to API keys stored in AWS Secrets Manager. To allow the program to retrieve these secrets, you need to have a valid CrowdSmart AWS access key with the appropriate permissions configured on your computer. 
 
 To run the application, use the following command in your terminal:
 
