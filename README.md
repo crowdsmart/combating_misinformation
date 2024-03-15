@@ -21,5 +21,5 @@ To run the application, use the following command in your terminal:
 python combat.py
 ```
 
-### see [README](README.pdf) for more details and output of a trail run
+### see more [README](README.pdf) for more details and output of a trial run
 
